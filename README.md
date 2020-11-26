@@ -1,4 +1,4 @@
-# todo
+# Todo Application
 This is a simple todo application using pure javascript
 
 # Starting the project
